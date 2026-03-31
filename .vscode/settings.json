@@ -1,0 +1,9 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.project.sourcePaths": [
+    "dataai-common/src/main/java",
+    "dataai-gateway/src/main/java",
+    "dataai-query/src/main/java"
+  ]
+}
+
