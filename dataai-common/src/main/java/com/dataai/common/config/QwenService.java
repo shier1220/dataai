@@ -6,6 +6,8 @@ import org.springframework.stereotype.Component;
 
 import okhttp3.*;
 
+import java.util.concurrent.TimeUnit;
+
 @Component
 public class QwenService {
 
